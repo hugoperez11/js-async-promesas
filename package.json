@@ -1,0 +1,12 @@
+{
+  "name": "js-async-promesas",
+  "version": "1.0.0",
+  "description": "Práctica\r 1.- Usa este JSON para imprimir en consola del navegador la lista de títulos de los ‘Todos’.\r {\r &quot;results&quot;: [\r {\r &quot;title&quot;: &quot;Estudiar Js&quot;,\r &quot;priority&quot;: &quot;alta&quot;,\r &quot;isDone&quot;: false\r },\r {\r &quot;title&quot;: &quot;Estudiar CSS&quot;,\r &quot;priority&quot;: &quot;alta&quot;,\r &quot;isDone&quot;: true\r },\r {\r &quot;title&quot;: &quot;Estudiar OOP&quot;,\r &quot;priority&quot;: &quot;media&quot;,\r &quot;isDone&quot;: false\r },\r {\r &quot;title&quot;: &quot;Estudiar IA&quot;,\r &quot;priority&quot;: &quot;baja&quot;,\r &quot;isDone&quot;: false\r }\r ]\r }",
+  "main": "async.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hugo",
+  "license": "ISC"
+}
